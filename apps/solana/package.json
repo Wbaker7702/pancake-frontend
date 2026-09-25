@@ -81,7 +81,7 @@
     "@wormhole-foundation/wormhole-connect": "^0.3.21",
     "ag-grid-community": "^33.3.0",
     "ag-grid-react": "^33.3.0",
-    "axios": "^1.2.6",
+    "axios": "^1.18.0",
     "bn.js": "5.2.1",
     "bs58": "^5.0.0",
     "clsx": "^1.2.1",
