@@ -8,7 +8,7 @@
   },
   "type": "module",
   "dependencies": {
-    "qs": "^6.0.0",
+    "qs": "^6.16.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {

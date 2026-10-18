@@ -79,7 +79,7 @@
     "tsx": "^4.6.1",
     "turbo": "2.4.4",
     "typescript": "5.7.3",
-    "vitest": "^2.1.4",
+    "vitest": "^5.0.5",
     "wrangler": "catalog:"
   },
   "volta": {
